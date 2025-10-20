@@ -1,0 +1,7 @@
+Tokens
+
+
+signup  =    eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhYmNVc2VyIjp7Im15X2lkIjoiNjZmYTUzMzc5NzllNjFiNDI2Nzk5MzRhIn0sImlhdCI6MTcyNzY4MTMzNX0.IaaiybS7zgHvyHnBgoHm4RvqF8x-HeOH_DDDAIbbFRs
+
+
+login   =   eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuZXdVc2VyIjp7ImxvZ2luIjoiNjZmYTUzMzc5NzllNjFiNDI2Nzk5MzRhIn0sImlhdCI6MTcyNzY4MTM1NX0.lH5GVHKJnYGAwHfPdBH1ZGPPmeGjSV8whasHH7jCwHw
