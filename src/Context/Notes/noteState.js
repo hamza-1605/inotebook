@@ -6,7 +6,7 @@ const NoteState = (props)=> {
   const aContext = useContext(AlertContext)
   const {triggerAlert} = aContext
 
-  const host = "http://localhost:5000/api"
+  const host = "https://inotebook-brown-delta.vercel.app/api"
 
     const initialNotes = []
     const [notes, setNotes] = useState(initialNotes)

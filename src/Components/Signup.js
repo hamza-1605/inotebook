@@ -21,7 +21,7 @@ const Signup = () => {
       return triggerAlert('signupFailed' , "Your passwords doesn't match, please try again")
     }
 
-    const response = await fetch('http://localhost:5000/api/auth/createuser' , {
+    const response = await fetch('https://inotebook-brown-delta.vercel.app/api/auth/createuser' , {
       method: "POST" ,
       headers: {
         "Content-Type": "application/json"
